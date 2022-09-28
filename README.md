@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her, sie/ihr
 - 🔭 I’m currently working on my personal portfolio website
-- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chantal-m-b%C3%BCrger-722391130 "LinkedIn")
 
 <!--
 **chantal0000/chantal0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
