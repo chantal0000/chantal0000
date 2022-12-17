@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌿 I'm improving my react skills<br>🧩 I'm currently learning with a mentor from startsteps
+🌿 I'm improving my react skills<br>🧩 I'm currently learning with a mentor from startsteps<br>💡 curious and excited to learn more and explore
 
 
 ## 🌐 Socials:
