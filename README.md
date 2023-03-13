@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+LEARNING THE BASICS OF C IN THIS MARCH.
+
 🌿 I'm improving my react skills<br>🧩 I'm currently learning with a mentor from startsteps<br>💡 curious and excited to learn more and explore <br> ❇️ for my next project I would love to explore three.js or p5.js
 
 
