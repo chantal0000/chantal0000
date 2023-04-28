@@ -2,7 +2,7 @@
 
 LEARNING THE BASICS OF C IN THIS MARCH.
 
-👨🏻‍💻 student at ![42 Berlin](https://42berlin.de/)
+👨🏻‍💻 student at [42 Berlin] (https://42berlin.de/)
 
 🌿 I'm improving my react skills<br>🧩 I'm currently learning with a mentor from startsteps<br>💡 curious and excited to learn more and explore <br> ❇️ for my next project I would love to explore three.js or p5.js
 
