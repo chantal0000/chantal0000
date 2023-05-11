@@ -4,7 +4,7 @@ LEARNING THE BASICS OF C IN THIS MARCH.
 
 👨🏻‍💻 Student at [42 Berlin](https://42berlin.de/)<br>
 👾 Learning C since Feb' 2023<br>
-🧩 I recently leared with an amazing mentor from startsteps<br>💡 curious and excited to learn more and explore <br> ❇️ for my next project I would love to explore three.js or p5.js
+🧩 I recently learned with an amazing mentor from startsteps<br>💡 curious and excited to learn more and explore <br> ❇️ for my next project I would love to explore three.js or p5.js
 
 
 ## 🌐 Socials:
