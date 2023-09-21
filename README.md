@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-LEARNING THE BASICS OF C IN THIS MARCH.
-
 👨🏻‍💻 Software Engineering Student at [42 Berlin](https://42berlin.de/)<br>
-👾 Learning C since Feb' 2023<br>
 🧩 JavaScript, HTML, CSS <br>💡 curious and excited to learn more and explore <br> ❇️ for my next project I would love to explore three.js or p5.js
 
 
