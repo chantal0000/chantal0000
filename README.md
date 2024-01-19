@@ -1,7 +1,7 @@
 # 🙃 About Me:
 
 👨🏻‍💻 Software Engineering Student at [42 Berlin](https://42berlin.de/)<br>
-🖳 C, C++ <br>
+⌨️ C, C++ <br> 
 🧩 JavaScript, React, HTML, CSS <br>💡 curious and excited to learn more and explore <br> ❇️ for my next project I would love to explore three.js or p5.js
 
 
