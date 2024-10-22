@@ -1,7 +1,7 @@
 # 🙃 About Me:
 
 👨🏻‍💻 Software Engineering Student at [42 Berlin](https://42berlin.de/)<br>
-⌨️ C, C++ <br> 
+⌨️ TypeScript, Node.js, C, C++ <br> 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chantal-m-buerger-722391130) 
